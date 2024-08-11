@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Benjamin Barrera-Altuna
+# Hi there 👋, I'm Benjamin 
 
 ## About Me 😀
 
