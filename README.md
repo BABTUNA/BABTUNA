@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Benjamin 
+![Profile views](https://komarev.com/ghpvc/?username=BABTUNA&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me 😀
 
