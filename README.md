@@ -1,15 +1,26 @@
-# Hi there 👋, I'm Benjamin 
+# Hi there 👋, I'm Benjamin
+
 ![Profile views](https://komarev.com/ghpvc/?username=BABTUNA&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me 😀
 
-- Hi, I'm Ben! I'm a full-stack and AI developer with nearly 2 years of experience.
-- 🥼 I'm currently involved in 2 research labs: my main interest are multimodal fusion methods and graph neural networks applied to city spatial contexts
-- 🧑🏻‍💻 Beyond research, I develop full stack applications. check out some of my work at : https://babtuna.github.io/
-- 🎓 BS in CS @ the University of South Florida '26
+- Hi, I’m Ben — a CS student at the University of South Florida (’27) focused on **backend infrastructure and distributed systems**.
+- Over multiple internships, I’ve worked on **Java-based backend services, event-driven pipelines, and nearline data processing systems** across fintech, AI platforms, and military technology.
+- I’m currently most interested in **scaling, event handling, streaming systems, and data movement problems**.
+- I still enjoy building full-stack projects when useful, but my main focus is on **infrastructure and systems-level work**.
 
 ## Technologies ⚡
-- Frontend: **React, JavaScript, TypeScript, TailwindCSS, HTML, CSS**
-- Backend:  **ASP.NET, Spring, Django, Express** 
-- Databases **PostgreSQL, MySQL, SupaBase**
-- Deployment **AWS Cloud (RDS, EB, S3), Docker**
+
+**Languages**
+- Java, Python, C#, TypeScript/JavaScript, SQL, C++
+
+**Backend & Frameworks**
+- Spring Boot, ASP.NET, Django, Express
+
+**Distributed Systems & Data**
+- Apache Kafka, Apache Beam, Apache Spark  
+- Event-driven architectures, nearline processing
+
+**Cloud & Infrastructure**
+- AWS, Docker, Kubernetes, Azure DevOps (CI/CD)
+- Git, GraphQL, DynamoDB
