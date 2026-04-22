@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=BABTUNA&label=Profile%20views&color=0e75b6&style=flat)
 
 ## About Me 😀
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benbarreraa/)
 
 <p>
   <a href="https://www.linkedin.com/in/benbarreraa/">
