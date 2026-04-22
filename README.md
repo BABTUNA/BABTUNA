@@ -4,9 +4,13 @@
 
 ## About Me 😀
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18"/>
-  <a href="https://www.linkedin.com/in/benbarreraa/">LinkedIn</a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       height="18"
+       style="vertical-align: middle; margin-right: 6px;" />
+  <a href="https://www.linkedin.com/in/benbarreraa/" style="vertical-align: middle;">
+    LinkedIn
+  </a>
 </p>
 
 - CS student at the University of South Florida focused on **backend infrastructure and distributed systems**
