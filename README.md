@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BABTUNA&label=Profile%20views&color=0e75b6&style=flat" />
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/benbarreraa/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/benbarreraa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
