@@ -1,11 +1,14 @@
 # Hi there 👋, I'm Benjamin
 
-![Profile views](https://komarev.com/ghpvc/?username=BABTUNA&label=Profile%20views&color=0e75b6&style=flat)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BABTUNA&label=Profile%20views&color=0e75b6&style=flat" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/benbarreraa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ## About Me 😀
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benbarreraa/)
-
-
 
 - CS student at the University of South Florida focused on **backend infrastructure and distributed systems**
 - Experience building **Java backend services, event-driven pipelines, and nearline data systems** across fintech, AI, and defense
