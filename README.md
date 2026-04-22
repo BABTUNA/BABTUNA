@@ -4,11 +4,15 @@
 
 ## About Me 😀
 
-- Linkedin: https://www.linkedin.com/in/benbarreraa/
-- Hi, I’m Ben, a CS student at the University of South Florida focused on **backend infrastructure and distributed systems**.
-- Over multiple internships, I’ve worked on **Java-based backend services, event-driven pipelines, and nearline data processing systems** across fintech, AI platforms, and military technology.
-- I’m currently most interested in **scaling, event handling, streaming systems, and data movement problems**.
-- I still enjoy building full-stack projects when useful, but my main focus is on **infrastructure and systems-level work**.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18"/>
+  <a href="https://www.linkedin.com/in/benbarreraa/">LinkedIn</a>
+</p>
+
+- CS student at the University of South Florida focused on **backend infrastructure and distributed systems**
+- Experience building **Java backend services, event-driven pipelines, and nearline data systems** across fintech, AI, and defense
+- Interested in **scaling systems, streaming architectures, and data movement problems**
+- Focused on **infrastructure and systems-level work**, with occasional full-stack projects when useful
 
 ## Tech Stack ;)
 
