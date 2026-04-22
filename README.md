@@ -1,11 +1,15 @@
 # Hi there 👋, I'm Benjamin
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=BABTUNA&label=Profile%20views&color=0e75b6&style=flat" />
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/benbarreraa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Distributed%20Systems-blue?style=flat" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-San%20Francisco%2C%20CA-lightgrey?style=flat" />
 </p>
 
 ## About Me 😀
