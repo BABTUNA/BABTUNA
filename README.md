@@ -6,8 +6,8 @@
 
 
 <p>
-  <a href="https://www.linkedin.com/in/benbarreraa/" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+  <a href="https://www.linkedin.com/in/benbarreraa/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
          height="20"
          style="vertical-align: middle;" />
     <span style="vertical-align: middle; margin-left: 6px;">LinkedIn</span>
