@@ -26,10 +26,11 @@
 - AWS, Docker, Kubernetes, Azure DevOps (CI/CD)
 - Git, GraphQL, DynamoDB
 
-<img src="https://github-readme-stats.vercel.app/api?username=BABTUNA&show_icons=true&theme=tokyonight" />
 
 ## 3D Contributions
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=BABTUNA&show_icons=true&theme=tokyonight" />
