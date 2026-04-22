@@ -14,6 +14,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Location-San%20Francisco%2C%20CA-lightgrey?style=flat" />
 </p>
+<br/>
 
 ## About Me 😀
 
