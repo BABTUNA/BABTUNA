@@ -5,14 +5,7 @@
 ## About Me 😀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benbarreraa/)
 
-<p>
-  <a href="https://www.linkedin.com/in/benbarreraa/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-         height="20"
-         style="vertical-align: middle;" />
-    <span style="vertical-align: middle; margin-left: 6px;">LinkedIn</span>
-  </a>
-</p>
+
 
 - CS student at the University of South Florida focused on **backend infrastructure and distributed systems**
 - Experience building **Java backend services, event-driven pipelines, and nearline data systems** across fintech, AI, and defense
