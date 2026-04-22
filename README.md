@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Benjamin
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Benjamin" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BABTUNA&label=Profile%20views&color=0e75b6&style=flat" />
