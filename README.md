@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Benjamin</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4500&pause=1500&color=2EA44F&center=true&vCenter=true&width=600&lines=%3E+Backend+Infrastructure+%26+Distributed+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4500&pause=1500&color=2EA44F&center=true&vCenter=true&width=700&lines=%3E+Backend+Infrastructure+%26+Distributed+Systems" />
 </p>
 
 <p align="center">
