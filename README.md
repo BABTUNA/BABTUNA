@@ -19,9 +19,9 @@
 ## About Me 😀
 
 - CS student at the University of South Florida focused on **backend infrastructure and distributed systems**
-- Experience building **Java backend services, event-driven pipelines, and nearline data systems** across fintech, AI, and defense
-- Interested in **scaling systems, streaming architectures, and data movement problems**
-- Focused on **infrastructure and systems-level work**, with occasional full-stack projects when useful
+- Building **Java backend services, event-driven pipelines, and nearline data systems** across fintech, AI, and defense
+- I like **scaling systems, streaming architectures, and data movement problems**
+- Locked in on **infrastructure and systems-level work**, with occasional full-stack projects when useful
 
 ## Tech Stack ;)
 
